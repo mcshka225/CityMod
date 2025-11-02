@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.example.citymod.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.citymod.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}
